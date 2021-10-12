@@ -73,6 +73,49 @@
         "full_width": true
       }
     },
+    "1634022930eb050e45": {
+      "type": "collection-list",
+      "blocks": {
+        "1634022930eb050e45-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hats-caps"
+          }
+        },
+        "1634022930eb050e45-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sunglasses"
+          }
+        },
+        "1634022930eb050e45-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "face-mask"
+          }
+        },
+        "0b8d5c38-3cbc-4f39-ac6d-8e4bb3da0fe6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wallets"
+          }
+        }
+      },
+      "block_order": [
+        "1634022930eb050e45-0",
+        "1634022930eb050e45-1",
+        "1634022930eb050e45-2",
+        "0b8d5c38-3cbc-4f39-ac6d-8e4bb3da0fe6"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -91,6 +134,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "video": {
           "type": "video",
@@ -183,6 +227,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "1634022930eb050e45",
     "featured_products",
     "collage",
     "video",
