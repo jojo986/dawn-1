@@ -180,9 +180,10 @@
       "type": "video",
       "settings": {
         "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/trippin-drippin-banner.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=Q7-lKMpn6dQ&t=2s",
         "description": "",
-        "full_width": false
+        "full_width": true
       }
     },
     "multi_column": {
